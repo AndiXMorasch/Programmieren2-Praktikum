@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Ball.cpp
+sstream
+-
+Ball.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Ball.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Ball.h
+Punkt3D.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt3D.h
+GeoObjekt.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/GeoObjekt.h
+cmath
+-
+OperandenPassenNicht.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/OperandenPassenNicht.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/GeoObjekt.cpp
+GeoObjekt.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/GeoObjekt.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/GeoObjekt.h
+MetrikVerhalten.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/MetrikVerhalten.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Kreis.cpp
+sstream
+-
+Kreis.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Kreis.h
+cmath
+-
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Kreis.h
+Punkt2D.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt2D.h
+GeoObjekt.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/GeoObjekt.h
+OperandenPassenNicht.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/OperandenPassenNicht.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/MetrikVerhalten.h
+Punkt.cpp
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt.cpp
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/OperandenPassenNicht.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt.cpp
+Punkt.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt.h
+string
+-
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt2D.h
+Punkt.cpp
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt.cpp
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt3D.h
+Punkt.cpp
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt.cpp
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Quader.cpp
+sstream
+-
+Quader.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Quader.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Quader.h
+Punkt3D.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt3D.h
+GeoObjekt.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/GeoObjekt.h
+OperandenPassenNicht.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/OperandenPassenNicht.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Rechteck.cpp
+sstream
+-
+Rechteck.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Rechteck.h
+cmath
+-
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Rechteck.h
+Punkt2D.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Punkt2D.h
+GeoObjekt.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/GeoObjekt.h
+OperandenPassenNicht.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/OperandenPassenNicht.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/main.cpp
+Rechteck.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Rechteck.h
+Kreis.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Kreis.h
+Quader.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Quader.h
+Ball.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/Ball.h
+OperandenPassenNicht.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_3.1/OperandenPassenNicht.h
+iostream
+-
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/Fifo.cpp
+iostream
+-
+string
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/string
+Fifo.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/Fifo.h
+FifoElement.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/FifoElement.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/Fifo.h
+FifoElement.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/FifoElement.h
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/FifoElement.h
+utility
+-
+string
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/string
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+Fifo.h
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_2.1/Fifo.h
+

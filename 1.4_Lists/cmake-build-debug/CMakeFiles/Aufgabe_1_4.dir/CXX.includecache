@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/OneDrive/2. Semester/2_Programmieren II/CLion Workspace/Aufgabe_1.4/main.cpp
+iostream
+-
+math.h
+-
+list
+-
+
